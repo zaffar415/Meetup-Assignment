@@ -6,8 +6,8 @@ You also need an admin screen that contains list of all the participants which c
 The task is to build three screens in a DrawerNavigator.
 
 ## Run
-npm-start
-react-native run-android
+Start the Metro server 
+### react-native run-android
 to run the application
 
 ## Information
